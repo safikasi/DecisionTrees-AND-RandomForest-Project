@@ -9,9 +9,9 @@ Predicting Lending Club loan repayments using Decision Trees and Random Forest c
 
 ## FICO Score Analysis
 
-(1.png)
+<img width="582" height="381" alt="1" src="https://github.com/user-attachments/assets/52891cef-e62d-4851-8ac2-129a0faa76c6" />
 
-(2.png)
+<img width="577" height="378" alt="2" src="https://github.com/user-attachments/assets/f85d0ef7-48fc-480a-acd0-97da6aa39a4d" />
 
 Credit policy=1 borrowers have higher FICO scores
 
@@ -21,9 +21,9 @@ Strong negative correlation with interest rates (pearson=0.71)
 
 ## Loan Characteristics
 
-(3.png)
+<img width="637" height="433" alt="3" src="https://github.com/user-attachments/assets/070b9a4b-cc2c-4dcb-be4c-74523b4c598a" />
 
-(5.png)
+<img width="721" height="377" alt="5" src="https://github.com/user-attachments/assets/5d679a82-baf3-4b88-b852-e7ed9d782987" />
 
 Top loan purpose: Debt consolidation (48.7%)
 
