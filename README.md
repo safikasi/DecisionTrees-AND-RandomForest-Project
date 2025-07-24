@@ -1,6 +1,7 @@
 # 🌳📈 Loan Repayment Prediction Project
-
-![Machine Learning in Finance](https://miro.medium.com/max/1400/1*ZIKAqZvFoTm2-4m9XslQNw.jpeg)
+![Python](https://img.shields.io/badge/Python-%E2%9D%A4%EF%B8%8F%203.8%2B-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%F0%9F%94%8E%201.2%2B-orange)
+![Machine-Learning](https://img.shields.io/badge/Machine--Learning)
 
 # Project Overview
 Predicting Lending Club loan repayments using Decision Trees and Random Forest classifiers on 2007-2010 data.
