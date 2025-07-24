@@ -51,6 +51,7 @@ Credit policy=1 group repays better
 ## 🛠️ Installation
 
 git clone https://github.com/safikasi/DecisionTrees-AND-RandomForest-Project.git
+
 pip install -r requirements.txt
 
 # About Me
